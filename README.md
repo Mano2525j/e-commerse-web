@@ -1,2 +1,2 @@
 #simple project#
-<h6> e-commerse </h6>
+<h1> e-commerse using html css</h1>
