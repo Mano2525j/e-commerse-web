@@ -1,2 +1,2 @@
-#simple project
-##<h2> e-commerse </h2>
+#simple project#
+<h6> e-commerse </h6>
